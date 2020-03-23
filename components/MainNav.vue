@@ -28,10 +28,18 @@
               Imagine
             </n-link>
             <div class="navbar-dropdown">
-              <a class="navbar-item">Resources</a>
-              <a class="navbar-item">Theory</a>
-              <a class="navbar-item">Research</a>
-              <a class="navbar-item">Strategy</a>
+              <n-link class="navbar-item" to="/imagine/resources">
+                Resources
+              </n-link>
+              <n-link class="navbar-item" to="/imagine/theory">
+                Theory
+              </n-link>
+              <n-link class="navbar-item" to="/imagine/research">
+                Research
+              </n-link>
+              <n-link class="navbar-item" to="/imagine/strategy">
+                Strategy
+              </n-link>
             </div>
           </div>
           <div class="navbar-item has-dropdown is-hoverable menu-design">
@@ -39,10 +47,18 @@
               Design
             </n-link>
             <div class="navbar-dropdown">
-              <a class="navbar-item">Ethics</a>
-              <a class="navbar-item">Principles</a>
-              <a class="navbar-item">Process</a>
-              <a class="navbar-item">Systems</a>
+              <n-link class="navbar-item" to="/design/ethics">
+                Ethics
+              </n-link>
+              <n-link class="navbar-item" to="/design/principles">
+                Principles
+              </n-link>
+              <n-link class="navbar-item" to="/design/processes">
+                Processes
+              </n-link>
+              <n-link class="navbar-item" to="/design/systems">
+                Systems
+              </n-link>
             </div>
           </div>
           <div class="navbar-item has-dropdown is-hoverable menu-build">
@@ -50,24 +66,32 @@
               Build
             </n-link>
             <div class="navbar-dropdown">
-              <a class="navbar-item">People</a>
-              <a class="navbar-item">Relationships</a>
-              <a class="navbar-item">Community</a>
-              <a class="navbar-item">Social Architecture</a>
+              <n-link class="navbar-item" to="/build/people">
+                People
+              </n-link>
+              <n-link class="navbar-item" to="/build/relationships">
+                Relationships
+              </n-link>
+              <n-link class="navbar-item" to="/build/community">
+                Community
+              </n-link>
+              <n-link class="navbar-item" to="/build/social-architecture">
+                Social Architecture
+              </n-link>
             </div>
           </div>
         </div>
         <div class="navbar-end">
-          <n-link class="navbar-item" to="/about">
+          <n-link class="navbar-item menu-about" to="/about">
             About
           </n-link>
-          <n-link class="navbar-item" to="/journal">
+          <n-link class="navbar-item menu-journal" to="/journal">
             Journal
           </n-link>
-          <n-link class="navbar-item" to="/work">
+          <n-link class="navbar-item menu-work" to="/work">
             Work
           </n-link>
-          <n-link class="navbar-item" to="/resources">
+          <n-link class="navbar-item menu-resources" to="/resources">
             Resources
           </n-link>
         </div>
