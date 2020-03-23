@@ -3,8 +3,8 @@
     <hero-section
       title="About"
       subtitle="Putting ideas into practice."
-      image="https://source.unsplash.com//ineC_oi7NHs/1600x900"
-      image-alt="Perspective Playground"
+      image="https://source.unsplash.com/7e2pe9wjL9M/1600x900"
+      image-alt="Man holding incandescent bulb"
       color="primary"
       size="is-large"
     />
