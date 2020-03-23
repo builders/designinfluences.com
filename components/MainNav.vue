@@ -174,6 +174,34 @@ export default {
     }
   }
 
+  .menu-about {
+    &.navbar-item.nuxt-link-active,
+    &.navbar-item:hover {
+      color: $primary;
+    }
+  }
+
+  .menu-journal {
+    &.navbar-item.nuxt-link-active,
+    &.navbar-item:hover {
+      color: $secondary;
+    }
+  }
+
+  .menu-work {
+    &.navbar-item.nuxt-link-active,
+    &.navbar-item:hover {
+      color: $tertiary;
+    }
+  }
+
+  .menu-resources {
+    &.navbar-item.nuxt-link-active,
+    &.navbar-item:hover {
+      color: $primary;
+    }
+  }
+
   @media screen and (min-width: 1024px) {
     .menu-imagine {
       .navbar-dropdown {
@@ -215,7 +243,11 @@ export default {
     display: block;
   }
 
-  .menu-design .nuxt-link-active {
+  .menu-imagine .nuxt-link-active {
+    color: $primary;
+  }
+  .menu-design .nuxt-link-active,
+  .menu-journal .nuxt-link-active {
     color: $secondary;
   }
   .menu-build .nuxt-link-active {
