@@ -17,24 +17,24 @@
           </h3>
           <div class="footer-links">
             <div class="footer-link">
-              <a>
+              <n-link to="/imagine/resources">
                 Resources
-              </a>
+              </n-link>
             </div>
             <div class="footer-link">
-              <a>
+              <n-link to="/imagine/theory">
                 Theory
-              </a>
+              </n-link>
             </div>
             <div class="footer-link">
-              <a>
+              <n-link to="/imagine/research">
                 Research
-              </a>
+              </n-link>
             </div>
             <div class="footer-link">
-              <a>
+              <n-link to="/imagine/strategy">
                 Strategy
-              </a>
+              </n-link>
             </div>
           </div>
         </div>
@@ -46,24 +46,24 @@
           </h3>
           <div class="footer-links">
             <div class="footer-link">
-              <a>
+              <n-link to="/design/ethics">
                 Ethics
-              </a>
+              </n-link>
             </div>
             <div class="footer-link">
-              <a>
+              <n-link to="/design/principles">
                 Principles
-              </a>
+              </n-link>
             </div>
             <div class="footer-link">
-              <a>
-                Process
-              </a>
+              <n-link to="/design/processes">
+                Processes
+              </n-link>
             </div>
             <div class="footer-link">
-              <a>
+              <n-link to="/design/systems">
                 Systems
-              </a>
+              </n-link>
             </div>
           </div>
         </div>
@@ -75,24 +75,24 @@
           </h3>
           <div class="footer-links">
             <div class="footer-link">
-              <a>
+              <n-link to="/build/people">
                 People
-              </a>
+              </n-link>
             </div>
             <div class="footer-link">
-              <a>
+              <n-link to="/build/relationships">
                 Relationships
-              </a>
+              </n-link>
             </div>
             <div class="footer-link">
-              <a>
+              <n-link to="/build/community">
                 Community
-              </a>
+              </n-link>
             </div>
             <div class="footer-link">
-              <a>
+              <n-link to="/build/social-architecture">
                 Social Architecture
-              </a>
+              </n-link>
             </div>
           </div>
         </div>
