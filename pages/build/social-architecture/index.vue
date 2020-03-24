@@ -21,7 +21,7 @@
       <a href="#manifested" id="manifested">
         <h2>Our ideas and habits are manifested in the things we build</h2>
       </a>
-      <p><em><a href="https://trydesignlab.com/profile/JacobPernell/" target="_blank">Jacob Pernell</a>, one of my <a href="https://trydesignlab.com/bau/" target="_blank">UX Academy students on Designlab</a>, invited me to give a talk at a small meetup in Santa Clara for the <a href="https://www.meetup.com/UX-WIZARDS-OF-THE-SOUTH-BAY/" target="_blank">UX Wizards of the South Bay</a>. This was part of my presentation. Photo by Casey Horner on Unsplash</em></p>
+      <p><em><a href="https://www.jacobpernell.design" target="_blank">Jacob Pernell</a>, one of my <a href="https://trydesignlab.com/bau/" target="_blank">UX Academy students on Designlab</a>, invited me to give a talk at a small meetup in Santa Clara for the <a href="https://www.meetup.com/UX-WIZARDS-OF-THE-SOUTH-BAY/" target="_blank">UX Wizards of the South Bay</a>. This was part of my presentation. Photo by Casey Horner on Unsplash</em></p>
       <a href="#the-big-picture" id="the-big-picture">
         <h1>The Big Picture</h1>
       </a>
