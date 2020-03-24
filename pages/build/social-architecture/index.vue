@@ -3,8 +3,8 @@
     <hero-section
       title="Social Architecture"
       subtitle="Our ideas and habits are manifested in the things we build"
-      image="https://source.unsplash.com/2JIvboGLeho/1600x900"
-      image-alt="Stadsbiblioteket, Stockholm, Sweden"
+      image="https://source.unsplash.com/dq7jErOBJbo/1600x900"
+      image-alt="Leaf veins"
       color="tertiary"
       size="is-large"
     />
