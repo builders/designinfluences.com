@@ -3,8 +3,8 @@
     <hero-section
       title="Community"
       subtitle="Social connection is the foundation for human identity"
-      image="https://source.unsplash.com/2JIvboGLeho/1600x900"
-      image-alt="Stadsbiblioteket, Stockholm, Sweden"
+      image="https://source.unsplash.com/W3SEyZODn8U/1600x900"
+      image-alt="People eating a meal around a table"
       color="tertiary"
       size="is-large"
     />
