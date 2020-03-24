@@ -1,6 +1,6 @@
-# media
+# Design Influences
 
-> Design Influences
+Inspired by the past. Shaping the future.
 
 ## Build Setup
 
